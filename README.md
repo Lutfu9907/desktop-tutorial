@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Lutfu 👋</h1>
 <p align="center">
-  <b>Software Engineer @ Keenon Robotics</b><br>
+  <b>Software Engineer @ Keenon Robotics Turkiye</b><br>
   Building backends with Java & Spring Boot, and working on robot installation and software.
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🤖 At **Keenon Robotics**, I handle the installation, software and system side of robots (site surveys, robot management).
+- 🤖 At **Keenon Robotics Turkiye**, I handle the installation, software and system side of robots (site surveys, robot management).
 - ☕ My main focus is building REST APIs with **Java & Spring Boot** using a layered architecture.
 - 🎮 In my free time, I build 2D games with **Unity**.
 - 🌱 Always learning and trying out new technologies through projects.
