@@ -1,42 +1,36 @@
-<h1 align="center">Merhaba, ben Lütfü 👋</h1>
+<h1 align="center">Hi, I'm Lutfu 👋</h1>
 <p align="center">
   <b>Software Engineer @ Keenon Robotics</b><br>
-  Java & Spring Boot ile backend geliştiriyor, robotların kurulum ve yazılım süreçlerinde çalışıyorum.
+  Building backends with Java & Spring Boot, and working on robot installation and software.
 </p>
 
 ---
 
-### 🚀 Hakkımda
-- 🤖 **Keenon Robotics**'te robotların kurulum, yazılım ve sistemsel işleriyle ilgileniyorum (saha keşfi, robot yönetimi).
-- ☕ Ana odak alanım **Java & Spring Boot** ile katmanlı mimaride REST API geliştirme.
-- 🎮 Boş zamanlarımda **Unity** ile 2D oyunlar geliştiriyorum.
-- 🌱 Sürekli öğreniyor, yeni teknolojileri projelerle deniyorum.
+### 🚀 About Me
+- 🤖 At **Keenon Robotics**, I handle the installation, software and system side of robots (site surveys, robot management).
+- ☕ My main focus is building REST APIs with **Java & Spring Boot** using a layered architecture.
+- 🎮 In my free time, I build 2D games with **Unity**.
+- 🌱 Always learning and trying out new technologies through projects.
 
-### 🛠️ Teknolojiler
+### 🛠️ Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,python,c,unity,git,github,postman,idea&perline=10" />
 </p>
 
 - **Backend:** Java 17, Spring Boot, Spring Data JPA, Spring Security & JWT, Lombok
-- **Veritabanı:** PostgreSQL
-- **Test:** JUnit
-- **Oyun:** Unity (C#)
-- **Diğer:** Python, C, Git
+- **Database:** PostgreSQL
+- **Testing:** JUnit
+- **Game Dev:** Unity (C#)
+- **Other:** Python, C, Git
 
-### 📂 Öne Çıkan Projeler
-| Proje | Açıklama |
+### 📂 Featured Projects
+| Project | Description |
 |---|---|
-| [Tower-Stack](https://github.com/Lutfu9907/Tower-Stack) | Unity ile geliştirilmiş 2D kule yığma oyunu |
-| [car-project-backend](https://github.com/Lutfu9907/car-project-backend) | Spring Boot ile araç yönetimi backend'i |
-| [gallerist-backend](https://github.com/Lutfu9907/gallerist-backend) | Galeri yönetim sistemi REST API |
-| [atm-project-backend](https://github.com/Lutfu9907/atm-project-backend) | ATM işlemleri simülasyonu backend'i |
-| [jwt](https://github.com/Lutfu9907/jwt) | Spring Security ile JWT kimlik doğrulama örneği |
-
-### 📊 GitHub İstatistikleri
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lutfu9907&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lutfu9907&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
+| [Tower-Stack](https://github.com/Lutfu9907/Tower-Stack) | A 2D tower stacking game built with Unity |
+| [car-project-backend](https://github.com/Lutfu9907/car-project-backend) | Vehicle management backend with Spring Boot |
+| [gallerist-backend](https://github.com/Lutfu9907/gallerist-backend) | REST API for a car gallery management system |
+| [atm-project-backend](https://github.com/Lutfu9907/atm-project-backend) | Backend simulating ATM operations |
+| [jwt](https://github.com/Lutfu9907/jwt) | JWT authentication example with Spring Security |
 
 ---
-<p align="center">⭐ Projelerime göz atmaktan çekinme!</p>
+<p align="center">⭐ Feel free to explore my projects!</p>
